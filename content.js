@@ -3,7 +3,7 @@ function transformWord0(){
    document.querySelector('.content').innerHTML = `Nhân dịp ngày 8-3, là ngày quốc tế Phụ Nữ...`;
 }
 function transformWord1() {
-   document.querySelector('.content').innerHTML = `tớ muốn gửi lời chúc mừng đến cô gái xinh đẹp và tài năng trên màn hình đó`;
+   document.querySelector('.content').innerHTML = `tớ muốn gửi lời chúc mừng đến cô gái xinh đẹp và tài năng trên màn hình đó =)))))`;
 }
 function transformWord2() {
    document.querySelector('.content').innerHTML = `Chúc cậu hãy luôn tin vào bản thân mình, không ngừng theo đuổi những ước mơ của mình`;
