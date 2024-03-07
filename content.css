@@ -1,0 +1,58 @@
+body{
+   margin: 0;
+   padding: 0;
+   background-image: url("background3.jpg");
+   background-size: cover;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 25px;
+   color: rgb(58, 58, 58);
+}
+.flower-image{
+   position: absolute;
+   top: 600px;
+   height: 150x;
+   width: 150px;
+   border-radius: 100%;
+   object-fit: cover;
+}
+.content{
+   position:absolute;
+   top: 30px;
+   left: 300px;
+   width: 900px;
+   font-size: 35px;
+   color: #4e11c0;
+}
+
+
+.start {
+  background-color: #EA4C89;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 60px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.start:hover,
+.start:focus {
+  background-color: #F082AC;
+}
